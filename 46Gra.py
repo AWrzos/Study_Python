@@ -1,5 +1,5 @@
 from sfml import sf
-from Board import Board
+from BoardII import Board
 
 ###########
 ###INTRO###

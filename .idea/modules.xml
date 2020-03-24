@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../projectEuler/.idea/eulerek.iml" filepath="$PROJECT_DIR$/../projectEuler/.idea/eulerek.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/nauka.iml" filepath="$PROJECT_DIR$/.idea/nauka.iml" />
     </modules>
   </component>
